@@ -6,8 +6,9 @@ to achieve this goal. The first, autoencoder.py is a simple autoencoder model th
 will generate new sequences, the second, variational_ae.py is an improvement on the
 autoencoder model to try and achieve better results.
 
-For the midi datasets created for this project the majority of midi files came from
-this link https://mega.nz/#!Elg1TA7T!MXEZPzq9s9YObiUcMCoNQJmCbawZqzAkHzY4Ym6Gs_Q
+For the midi datasets created for this project the majority of midi files came from:
+
+	https://mega.nz/#!Elg1TA7T!MXEZPzq9s9YObiUcMCoNQJmCbawZqzAkHzY4Ym6Gs_Q
 
 Below is a description of the system scripts and their usage.
 
